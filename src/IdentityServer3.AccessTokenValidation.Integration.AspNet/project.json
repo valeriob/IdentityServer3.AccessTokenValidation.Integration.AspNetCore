@@ -1,6 +1,11 @@
 {
-  "description": "IdentityServer3 integration with ASP.NET 5",
-  "version": "2.2.1",
+  "description": "IdentityServer3 Access Token Validation Integration Library for ASP.NET 5",
+  "version": "1.0.0-rc1",
+  "authors": [ "Dominick Baier", "Brock Allen", "Tugberk Ugurlu" ],
+  "iconUrl": "https://identityserver.github.io/Documentation/assets/images/icons/IDserver_icon128.jpg",
+  "tags": [ "IdentityServer", "OpenID Connect", "OpenIDConnect", "OAuth2", "OWIN", "ASP.NET", "Katana", "WebApi", "SSO", "Federation", "Claims", "Identity" ],
+  "projectUrl": "https://github.com/IdentityServer/IdentityServer3.AccessTokenValidation.Integration.AspNet",
+  "licenseUrl": "https://github.com/IdentityServer/IdentityServer3.AccessTokenValidation.Integration.AspNet/blob/master/LICENSE",
   "repository": {
     "type": "git"
   },
